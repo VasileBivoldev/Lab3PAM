@@ -1,0 +1,1754 @@
+{
+  "banners": [
+    {
+      "title": "Summer Sale",
+      "description": "Enjoy up to 50% off on all summer products!",
+      "image": "assets/iphoto.jpg"
+    },
+    {
+      "title": "New Arrivals",
+      "description": "Check out the latest trends in our collection.",
+      "image": "assets/iphoto2.jpg"
+    },
+    {
+      "title": "Holiday Discounts",
+      "description": "Get amazing discounts on holiday gifts and more!",
+      "image": "assets/iphoto3.jpg"
+    },
+    {
+      "title": "Exclusive Offer",
+      "description": "Sign up now and get an exclusive 10% discount.",
+      "image": "assets/iphoto2.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Cardiology",
+      "icon": "assets/cardiolog.jpg"
+    },
+    {
+      "title": "Dentistry",
+      "icon": "assets/tooth.jpg"
+    },
+    {
+      "title": "Orthopedics",
+      "icon": "assets/ortopedic.jpg"
+    },
+    {
+      "title": "Dermatology",
+      "icon": "assets/dermatolog.jpg"
+    },
+    {
+      "title": "Pediatrics",
+      "icon": "assets/general.jpg"
+    },
+    {
+      "title": "Ophthalmology",
+      "icon": "assets/oftalmolog.jpg"
+    }
+  ],
+  "nearby_centers": [
+    {
+      "image": "assets/clinic1.jpg",
+      "title": "Medical Center 1",
+      "location_name": "Location 1",
+      "review_rate": 4.1,
+      "count_reviews": 102,
+      "distance_km": 1.1,
+      "distance_minutes": 6
+    },
+    {
+      "image": "assets/clinic2.jpg",
+      "title": "Medical Center 2",
+      "location_name": "Location 2",
+      "review_rate": 4.2,
+      "count_reviews": 104,
+      "distance_km": 1.1,
+      "distance_minutes": 7
+    },
+    {
+      "image": "assets/sunrise-hospital.jpg",
+      "title": "Medical Center 3",
+      "location_name": "Location 3",
+      "review_rate": 4.3,
+      "count_reviews": 106,
+      "distance_km": 1.1,
+      "distance_minutes": 8
+    },
+    {
+      "image": "assets/cardiology-center.jpg",
+      "title": "Medical Center 4",
+      "location_name": "Location 4",
+      "review_rate": 4.4,
+      "count_reviews": 108,
+      "distance_km": 1.2,
+      "distance_minutes": 9
+    },
+    {
+      "image": "https://example.com/medical-center5.jpg",
+      "title": "Medical Center 5",
+      "location_name": "Location 5",
+      "review_rate": 4.5,
+      "count_reviews": 110,
+      "distance_km": 1.2,
+      "distance_minutes": 10
+    },
+    {
+      "image": "https://example.com/medical-center6.jpg",
+      "title": "Medical Center 6",
+      "location_name": "Location 6",
+      "review_rate": 4.6,
+      "count_reviews": 112,
+      "distance_km": 1.3,
+      "distance_minutes": 11
+    },
+    {
+      "image": "https://example.com/medical-center7.jpg",
+      "title": "Medical Center 7",
+      "location_name": "Location 7",
+      "review_rate": 4.7,
+      "count_reviews": 114,
+      "distance_km": 1.4,
+      "distance_minutes": 12
+    },
+    {
+      "image": "https://example.com/medical-center8.jpg",
+      "title": "Medical Center 8",
+      "location_name": "Location 8",
+      "review_rate": 4.8,
+      "count_reviews": 116,
+      "distance_km": 1.4,
+      "distance_minutes": 13
+    },
+    {
+      "image": "https://example.com/medical-center9.jpg",
+      "title": "Medical Center 9",
+      "location_name": "Location 9",
+      "review_rate": 4.9,
+      "count_reviews": 118,
+      "distance_km": 1.4,
+      "distance_minutes": 14
+    },
+    {
+      "image": "https://example.com/medical-center10.jpg",
+      "title": "Medical Center 10",
+      "location_name": "Location 10",
+      "review_rate": 4.0,
+      "count_reviews": 120,
+      "distance_km": 1.5,
+      "distance_minutes": 15
+    },
+    {
+      "image": "https://example.com/medical-center11.jpg",
+      "title": "Medical Center 11",
+      "location_name": "Location 11",
+      "review_rate": 4.1,
+      "count_reviews": 122,
+      "distance_km": 1.6,
+      "distance_minutes": 16
+    },
+    {
+      "image": "https://example.com/medical-center12.jpg",
+      "title": "Medical Center 12",
+      "location_name": "Location 12",
+      "review_rate": 4.2,
+      "count_reviews": 124,
+      "distance_km": 1.6,
+      "distance_minutes": 17
+    },
+    {
+      "image": "https://example.com/medical-center13.jpg",
+      "title": "Medical Center 13",
+      "location_name": "Location 13",
+      "review_rate": 4.3,
+      "count_reviews": 126,
+      "distance_km": 1.6,
+      "distance_minutes": 18
+    },
+    {
+      "image": "https://example.com/medical-center14.jpg",
+      "title": "Medical Center 14",
+      "location_name": "Location 14",
+      "review_rate": 4.4,
+      "count_reviews": 128,
+      "distance_km": 1.7,
+      "distance_minutes": 19
+    },
+    {
+      "image": "https://example.com/medical-center15.jpg",
+      "title": "Medical Center 15",
+      "location_name": "Location 15",
+      "review_rate": 4.5,
+      "count_reviews": 130,
+      "distance_km": 1.8,
+      "distance_minutes": 20
+    },
+    {
+      "image": "https://example.com/medical-center16.jpg",
+      "title": "Medical Center 16",
+      "location_name": "Location 16",
+      "review_rate": 4.6,
+      "count_reviews": 132,
+      "distance_km": 1.8,
+      "distance_minutes": 21
+    },
+    {
+      "image": "https://example.com/medical-center17.jpg",
+      "title": "Medical Center 17",
+      "location_name": "Location 17",
+      "review_rate": 4.7,
+      "count_reviews": 134,
+      "distance_km": 1.9,
+      "distance_minutes": 22
+    },
+    {
+      "image": "https://example.com/medical-center18.jpg",
+      "title": "Medical Center 18",
+      "location_name": "Location 18",
+      "review_rate": 4.8,
+      "count_reviews": 136,
+      "distance_km": 1.9,
+      "distance_minutes": 23
+    },
+    {
+      "image": "https://example.com/medical-center19.jpg",
+      "title": "Medical Center 19",
+      "location_name": "Location 19",
+      "review_rate": 4.9,
+      "count_reviews": 138,
+      "distance_km": 2.0,
+      "distance_minutes": 24
+    },
+    {
+      "image": "https://example.com/medical-center20.jpg",
+      "title": "Medical Center 20",
+      "location_name": "Location 20",
+      "review_rate": 4.0,
+      "count_reviews": 140,
+      "distance_km": 2.0,
+      "distance_minutes": 25
+    },
+    {
+      "image": "https://example.com/medical-center21.jpg",
+      "title": "Medical Center 21",
+      "location_name": "Location 21",
+      "review_rate": 4.1,
+      "count_reviews": 142,
+      "distance_km": 2.0,
+      "distance_minutes": 26
+    },
+    {
+      "image": "https://example.com/medical-center22.jpg",
+      "title": "Medical Center 22",
+      "location_name": "Location 22",
+      "review_rate": 4.2,
+      "count_reviews": 144,
+      "distance_km": 2.1,
+      "distance_minutes": 27
+    },
+    {
+      "image": "https://example.com/medical-center23.jpg",
+      "title": "Medical Center 23",
+      "location_name": "Location 23",
+      "review_rate": 4.3,
+      "count_reviews": 146,
+      "distance_km": 2.2,
+      "distance_minutes": 28
+    },
+    {
+      "image": "https://example.com/medical-center24.jpg",
+      "title": "Medical Center 24",
+      "location_name": "Location 24",
+      "review_rate": 4.4,
+      "count_reviews": 148,
+      "distance_km": 2.2,
+      "distance_minutes": 29
+    },
+    {
+      "image": "https://example.com/medical-center25.jpg",
+      "title": "Medical Center 25",
+      "location_name": "Location 25",
+      "review_rate": 4.5,
+      "count_reviews": 150,
+      "distance_km": 2.2,
+      "distance_minutes": 30
+    },
+    {
+      "image": "https://example.com/medical-center26.jpg",
+      "title": "Medical Center 26",
+      "location_name": "Location 26",
+      "review_rate": 4.6,
+      "count_reviews": 152,
+      "distance_km": 2.3,
+      "distance_minutes": 31
+    },
+    {
+      "image": "https://example.com/medical-center27.jpg",
+      "title": "Medical Center 27",
+      "location_name": "Location 27",
+      "review_rate": 4.7,
+      "count_reviews": 154,
+      "distance_km": 2.4,
+      "distance_minutes": 32
+    },
+    {
+      "image": "https://example.com/medical-center28.jpg",
+      "title": "Medical Center 28",
+      "location_name": "Location 28",
+      "review_rate": 4.8,
+      "count_reviews": 156,
+      "distance_km": 2.4,
+      "distance_minutes": 33
+    },
+    {
+      "image": "https://example.com/medical-center29.jpg",
+      "title": "Medical Center 29",
+      "location_name": "Location 29",
+      "review_rate": 4.9,
+      "count_reviews": 158,
+      "distance_km": 2.5,
+      "distance_minutes": 34
+    },
+    {
+      "image": "https://example.com/medical-center30.jpg",
+      "title": "Medical Center 30",
+      "location_name": "Location 30",
+      "review_rate": 4.0,
+      "count_reviews": 160,
+      "distance_km": 2.5,
+      "distance_minutes": 35
+    },
+    {
+      "image": "https://example.com/medical-center31.jpg",
+      "title": "Medical Center 31",
+      "location_name": "Location 31",
+      "review_rate": 4.1,
+      "count_reviews": 162,
+      "distance_km": 2.5,
+      "distance_minutes": 36
+    },
+    {
+      "image": "https://example.com/medical-center32.jpg",
+      "title": "Medical Center 32",
+      "location_name": "Location 32",
+      "review_rate": 4.2,
+      "count_reviews": 164,
+      "distance_km": 2.6,
+      "distance_minutes": 37
+    },
+    {
+      "image": "https://example.com/medical-center33.jpg",
+      "title": "Medical Center 33",
+      "location_name": "Location 33",
+      "review_rate": 4.3,
+      "count_reviews": 166,
+      "distance_km": 2.7,
+      "distance_minutes": 38
+    },
+    {
+      "image": "https://example.com/medical-center34.jpg",
+      "title": "Medical Center 34",
+      "location_name": "Location 34",
+      "review_rate": 4.4,
+      "count_reviews": 168,
+      "distance_km": 2.7,
+      "distance_minutes": 39
+    },
+    {
+      "image": "https://example.com/medical-center35.jpg",
+      "title": "Medical Center 35",
+      "location_name": "Location 35",
+      "review_rate": 4.5,
+      "count_reviews": 170,
+      "distance_km": 2.8,
+      "distance_minutes": 40
+    },
+    {
+      "image": "https://example.com/medical-center36.jpg",
+      "title": "Medical Center 36",
+      "location_name": "Location 36",
+      "review_rate": 4.6,
+      "count_reviews": 172,
+      "distance_km": 2.8,
+      "distance_minutes": 41
+    },
+    {
+      "image": "https://example.com/medical-center37.jpg",
+      "title": "Medical Center 37",
+      "location_name": "Location 37",
+      "review_rate": 4.7,
+      "count_reviews": 174,
+      "distance_km": 2.9,
+      "distance_minutes": 42
+    },
+    {
+      "image": "https://example.com/medical-center38.jpg",
+      "title": "Medical Center 38",
+      "location_name": "Location 38",
+      "review_rate": 4.8,
+      "count_reviews": 176,
+      "distance_km": 2.9,
+      "distance_minutes": 43
+    },
+    {
+      "image": "https://example.com/medical-center39.jpg",
+      "title": "Medical Center 39",
+      "location_name": "Location 39",
+      "review_rate": 4.9,
+      "count_reviews": 178,
+      "distance_km": 3.0,
+      "distance_minutes": 44
+    },
+    {
+      "image": "https://example.com/medical-center40.jpg",
+      "title": "Medical Center 40",
+      "location_name": "Location 40",
+      "review_rate": 4.0,
+      "count_reviews": 180,
+      "distance_km": 3.0,
+      "distance_minutes": 45
+    },
+    {
+      "image": "https://example.com/medical-center41.jpg",
+      "title": "Medical Center 41",
+      "location_name": "Location 41",
+      "review_rate": 4.1,
+      "count_reviews": 182,
+      "distance_km": 3.1,
+      "distance_minutes": 46
+    },
+    {
+      "image": "https://example.com/medical-center42.jpg",
+      "title": "Medical Center 42",
+      "location_name": "Location 42",
+      "review_rate": 4.2,
+      "count_reviews": 184,
+      "distance_km": 3.1,
+      "distance_minutes": 47
+    },
+    {
+      "image": "https://example.com/medical-center43.jpg",
+      "title": "Medical Center 43",
+      "location_name": "Location 43",
+      "review_rate": 4.3,
+      "count_reviews": 186,
+      "distance_km": 3.1,
+      "distance_minutes": 48
+    },
+    {
+      "image": "https://example.com/medical-center44.jpg",
+      "title": "Medical Center 44",
+      "location_name": "Location 44",
+      "review_rate": 4.4,
+      "count_reviews": 188,
+      "distance_km": 3.2,
+      "distance_minutes": 49
+    },
+    {
+      "image": "https://example.com/medical-center45.jpg",
+      "title": "Medical Center 45",
+      "location_name": "Location 45",
+      "review_rate": 4.5,
+      "count_reviews": 190,
+      "distance_km": 3.2,
+      "distance_minutes": 50
+    },
+    {
+      "image": "https://example.com/medical-center46.jpg",
+      "title": "Medical Center 46",
+      "location_name": "Location 46",
+      "review_rate": 4.6,
+      "count_reviews": 192,
+      "distance_km": 3.3,
+      "distance_minutes": 51
+    },
+    {
+      "image": "https://example.com/medical-center47.jpg",
+      "title": "Medical Center 47",
+      "location_name": "Location 47",
+      "review_rate": 4.7,
+      "count_reviews": 194,
+      "distance_km": 3.4,
+      "distance_minutes": 52
+    },
+    {
+      "image": "https://example.com/medical-center48.jpg",
+      "title": "Medical Center 48",
+      "location_name": "Location 48",
+      "review_rate": 4.8,
+      "count_reviews": 196,
+      "distance_km": 3.4,
+      "distance_minutes": 53
+    },
+    {
+      "image": "https://example.com/medical-center49.jpg",
+      "title": "Medical Center 49",
+      "location_name": "Location 49",
+      "review_rate": 4.9,
+      "count_reviews": 198,
+      "distance_km": 3.5,
+      "distance_minutes": 54
+    },
+    {
+      "image": "https://example.com/medical-center50.jpg",
+      "title": "Medical Center 50",
+      "location_name": "Location 50",
+      "review_rate": 4.0,
+      "count_reviews": 200,
+      "distance_km": 3.5,
+      "distance_minutes": 55
+    },
+    {
+      "image": "https://example.com/medical-center51.jpg",
+      "title": "Medical Center 51",
+      "location_name": "Location 51",
+      "review_rate": 4.1,
+      "count_reviews": 202,
+      "distance_km": 3.6,
+      "distance_minutes": 56
+    },
+    {
+      "image": "https://example.com/medical-center52.jpg",
+      "title": "Medical Center 52",
+      "location_name": "Location 52",
+      "review_rate": 4.2,
+      "count_reviews": 204,
+      "distance_km": 3.6,
+      "distance_minutes": 57
+    },
+    {
+      "image": "https://example.com/medical-center53.jpg",
+      "title": "Medical Center 53",
+      "location_name": "Location 53",
+      "review_rate": 4.3,
+      "count_reviews": 206,
+      "distance_km": 3.7,
+      "distance_minutes": 58
+    },
+    {
+      "image": "https://example.com/medical-center54.jpg",
+      "title": "Medical Center 54",
+      "location_name": "Location 54",
+      "review_rate": 4.4,
+      "count_reviews": 208,
+      "distance_km": 3.7,
+      "distance_minutes": 59
+    },
+    {
+      "image": "https://example.com/medical-center55.jpg",
+      "title": "Medical Center 55",
+      "location_name": "Location 55",
+      "review_rate": 4.5,
+      "count_reviews": 210,
+      "distance_km": 3.8,
+      "distance_minutes": 60
+    },
+    {
+      "image": "https://example.com/medical-center56.jpg",
+      "title": "Medical Center 56",
+      "location_name": "Location 56",
+      "review_rate": 4.6,
+      "count_reviews": 212,
+      "distance_km": 3.8,
+      "distance_minutes": 61
+    },
+    {
+      "image": "https://example.com/medical-center57.jpg",
+      "title": "Medical Center 57",
+      "location_name": "Location 57",
+      "review_rate": 4.7,
+      "count_reviews": 214,
+      "distance_km": 3.9,
+      "distance_minutes": 62
+    },
+    {
+      "image": "https://example.com/medical-center58.jpg",
+      "title": "Medical Center 58",
+      "location_name": "Location 58",
+      "review_rate": 4.8,
+      "count_reviews": 216,
+      "distance_km": 3.9,
+      "distance_minutes": 63
+    },
+    {
+      "image": "https://example.com/medical-center59.jpg",
+      "title": "Medical Center 59",
+      "location_name": "Location 59",
+      "review_rate": 4.9,
+      "count_reviews": 218,
+      "distance_km": 4.0,
+      "distance_minutes": 64
+    },
+    {
+      "image": "https://example.com/medical-center60.jpg",
+      "title": "Medical Center 60",
+      "location_name": "Location 60",
+      "review_rate": 4.0,
+      "count_reviews": 220,
+      "distance_km": 4.0,
+      "distance_minutes": 65
+    },
+    {
+      "image": "https://example.com/medical-center61.jpg",
+      "title": "Medical Center 61",
+      "location_name": "Location 61",
+      "review_rate": 4.1,
+      "count_reviews": 222,
+      "distance_km": 4.1,
+      "distance_minutes": 66
+    },
+    {
+      "image": "https://example.com/medical-center62.jpg",
+      "title": "Medical Center 62",
+      "location_name": "Location 62",
+      "review_rate": 4.2,
+      "count_reviews": 224,
+      "distance_km": 4.1,
+      "distance_minutes": 67
+    },
+    {
+      "image": "https://example.com/medical-center63.jpg",
+      "title": "Medical Center 63",
+      "location_name": "Location 63",
+      "review_rate": 4.3,
+      "count_reviews": 226,
+      "distance_km": 4.2,
+      "distance_minutes": 68
+    },
+    {
+      "image": "https://example.com/medical-center64.jpg",
+      "title": "Medical Center 64",
+      "location_name": "Location 64",
+      "review_rate": 4.4,
+      "count_reviews": 228,
+      "distance_km": 4.2,
+      "distance_minutes": 69
+    },
+    {
+      "image": "https://example.com/medical-center65.jpg",
+      "title": "Medical Center 65",
+      "location_name": "Location 65",
+      "review_rate": 4.5,
+      "count_reviews": 230,
+      "distance_km": 4.2,
+      "distance_minutes": 70
+    },
+    {
+      "image": "https://example.com/medical-center66.jpg",
+      "title": "Medical Center 66",
+      "location_name": "Location 66",
+      "review_rate": 4.6,
+      "count_reviews": 232,
+      "distance_km": 4.3,
+      "distance_minutes": 71
+    },
+    {
+      "image": "https://example.com/medical-center67.jpg",
+      "title": "Medical Center 67",
+      "location_name": "Location 67",
+      "review_rate": 4.7,
+      "count_reviews": 234,
+      "distance_km": 4.3,
+      "distance_minutes": 72
+    },
+    {
+      "image": "https://example.com/medical-center68.jpg",
+      "title": "Medical Center 68",
+      "location_name": "Location 68",
+      "review_rate": 4.8,
+      "count_reviews": 236,
+      "distance_km": 4.4,
+      "distance_minutes": 73
+    },
+    {
+      "image": "https://example.com/medical-center69.jpg",
+      "title": "Medical Center 69",
+      "location_name": "Location 69",
+      "review_rate": 4.9,
+      "count_reviews": 238,
+      "distance_km": 4.5,
+      "distance_minutes": 74
+    },
+    {
+      "image": "https://example.com/medical-center70.jpg",
+      "title": "Medical Center 70",
+      "location_name": "Location 70",
+      "review_rate": 4.0,
+      "count_reviews": 240,
+      "distance_km": 4.5,
+      "distance_minutes": 75
+    },
+    {
+      "image": "https://example.com/medical-center71.jpg",
+      "title": "Medical Center 71",
+      "location_name": "Location 71",
+      "review_rate": 4.1,
+      "count_reviews": 242,
+      "distance_km": 4.6,
+      "distance_minutes": 76
+    },
+    {
+      "image": "https://example.com/medical-center72.jpg",
+      "title": "Medical Center 72",
+      "location_name": "Location 72",
+      "review_rate": 4.2,
+      "count_reviews": 244,
+      "distance_km": 4.6,
+      "distance_minutes": 77
+    },
+    {
+      "image": "https://example.com/medical-center73.jpg",
+      "title": "Medical Center 73",
+      "location_name": "Location 73",
+      "review_rate": 4.3,
+      "count_reviews": 246,
+      "distance_km": 4.7,
+      "distance_minutes": 78
+    },
+    {
+      "image": "https://example.com/medical-center74.jpg",
+      "title": "Medical Center 74",
+      "location_name": "Location 74",
+      "review_rate": 4.4,
+      "count_reviews": 248,
+      "distance_km": 4.7,
+      "distance_minutes": 79
+    },
+    {
+      "image": "https://example.com/medical-center75.jpg",
+      "title": "Medical Center 75",
+      "location_name": "Location 75",
+      "review_rate": 4.5,
+      "count_reviews": 250,
+      "distance_km": 4.8,
+      "distance_minutes": 80
+    },
+    {
+      "image": "https://example.com/medical-center76.jpg",
+      "title": "Medical Center 76",
+      "location_name": "Location 76",
+      "review_rate": 4.6,
+      "count_reviews": 252,
+      "distance_km": 4.8,
+      "distance_minutes": 81
+    },
+    {
+      "image": "https://example.com/medical-center77.jpg",
+      "title": "Medical Center 77",
+      "location_name": "Location 77",
+      "review_rate": 4.7,
+      "count_reviews": 254,
+      "distance_km": 4.8,
+      "distance_minutes": 82
+    },
+    {
+      "image": "https://example.com/medical-center78.jpg",
+      "title": "Medical Center 78",
+      "location_name": "Location 78",
+      "review_rate": 4.8,
+      "count_reviews": 256,
+      "distance_km": 4.9,
+      "distance_minutes": 83
+    },
+    {
+      "image": "https://example.com/medical-center79.jpg",
+      "title": "Medical Center 79",
+      "location_name": "Location 79",
+      "review_rate": 4.9,
+      "count_reviews": 258,
+      "distance_km": 5.0,
+      "distance_minutes": 84
+    },
+    {
+      "image": "https://example.com/medical-center80.jpg",
+      "title": "Medical Center 80",
+      "location_name": "Location 80",
+      "review_rate": 4.0,
+      "count_reviews": 260,
+      "distance_km": 5.0,
+      "distance_minutes": 85
+    },
+    {
+      "image": "https://example.com/medical-center81.jpg",
+      "title": "Medical Center 81",
+      "location_name": "Location 81",
+      "review_rate": 4.1,
+      "count_reviews": 262,
+      "distance_km": 5.0,
+      "distance_minutes": 86
+    },
+    {
+      "image": "https://example.com/medical-center82.jpg",
+      "title": "Medical Center 82",
+      "location_name": "Location 82",
+      "review_rate": 4.2,
+      "count_reviews": 264,
+      "distance_km": 5.1,
+      "distance_minutes": 87
+    },
+    {
+      "image": "https://example.com/medical-center83.jpg",
+      "title": "Medical Center 83",
+      "location_name": "Location 83",
+      "review_rate": 4.3,
+      "count_reviews": 266,
+      "distance_km": 5.2,
+      "distance_minutes": 88
+    },
+    {
+      "image": "https://example.com/medical-center84.jpg",
+      "title": "Medical Center 84",
+      "location_name": "Location 84",
+      "review_rate": 4.4,
+      "count_reviews": 268,
+      "distance_km": 5.2,
+      "distance_minutes": 89
+    },
+    {
+      "image": "https://example.com/medical-center85.jpg",
+      "title": "Medical Center 85",
+      "location_name": "Location 85",
+      "review_rate": 4.5,
+      "count_reviews": 270,
+      "distance_km": 5.2,
+      "distance_minutes": 90
+    },
+    {
+      "image": "https://example.com/medical-center86.jpg",
+      "title": "Medical Center 86",
+      "location_name": "Location 86",
+      "review_rate": 4.6,
+      "count_reviews": 272,
+      "distance_km": 5.3,
+      "distance_minutes": 91
+    },
+    {
+      "image": "https://example.com/medical-center87.jpg",
+      "title": "Medical Center 87",
+      "location_name": "Location 87",
+      "review_rate": 4.7,
+      "count_reviews": 274,
+      "distance_km": 5.4,
+      "distance_minutes": 92
+    },
+    {
+      "image": "https://example.com/medical-center88.jpg",
+      "title": "Medical Center 88",
+      "location_name": "Location 88",
+      "review_rate": 4.8,
+      "count_reviews": 276,
+      "distance_km": 5.4,
+      "distance_minutes": 93
+    },
+    {
+      "image": "https://example.com/medical-center89.jpg",
+      "title": "Medical Center 89",
+      "location_name": "Location 89",
+      "review_rate": 4.9,
+      "count_reviews": 278,
+      "distance_km": 5.5,
+      "distance_minutes": 94
+    },
+    {
+      "image": "https://example.com/medical-center90.jpg",
+      "title": "Medical Center 90",
+      "location_name": "Location 90",
+      "review_rate": 4.0,
+      "count_reviews": 280,
+      "distance_km": 5.5,
+      "distance_minutes": 95
+    },
+    {
+      "image": "https://example.com/medical-center91.jpg",
+      "title": "Medical Center 91",
+      "location_name": "Location 91",
+      "review_rate": 4.1,
+      "count_reviews": 282,
+      "distance_km": 5.5,
+      "distance_minutes": 96
+    },
+    {
+      "image": "https://example.com/medical-center92.jpg",
+      "title": "Medical Center 92",
+      "location_name": "Location 92",
+      "review_rate": 4.2,
+      "count_reviews": 284,
+      "distance_km": 5.6,
+      "distance_minutes": 97
+    },
+    {
+      "image": "https://example.com/medical-center93.jpg",
+      "title": "Medical Center 93",
+      "location_name": "Location 93",
+      "review_rate": 4.3,
+      "count_reviews": 286,
+      "distance_km": 5.7,
+      "distance_minutes": 98
+    },
+    {
+      "image": "https://example.com/medical-center94.jpg",
+      "title": "Medical Center 94",
+      "location_name": "Location 94",
+      "review_rate": 4.4,
+      "count_reviews": 288,
+      "distance_km": 5.7,
+      "distance_minutes": 99
+    },
+    {
+      "image": "https://example.com/medical-center95.jpg",
+      "title": "Medical Center 95",
+      "location_name": "Location 95",
+      "review_rate": 4.5,
+      "count_reviews": 290,
+      "distance_km": 5.8,
+      "distance_minutes": 100
+    },
+    {
+      "image": "https://example.com/medical-center96.jpg",
+      "title": "Medical Center 96",
+      "location_name": "Location 96",
+      "review_rate": 4.6,
+      "count_reviews": 292,
+      "distance_km": 5.8,
+      "distance_minutes": 101
+    },
+    {
+      "image": "https://example.com/medical-center97.jpg",
+      "title": "Medical Center 97",
+      "location_name": "Location 97",
+      "review_rate": 4.7,
+      "count_reviews": 294,
+      "distance_km": 5.9,
+      "distance_minutes": 102
+    },
+    {
+      "image": "https://example.com/medical-center98.jpg",
+      "title": "Medical Center 98",
+      "location_name": "Location 98",
+      "review_rate": 4.8,
+      "count_reviews": 296,
+      "distance_km": 5.9,
+      "distance_minutes": 103
+    },
+    {
+      "image": "https://example.com/medical-center99.jpg",
+      "title": "Medical Center 99",
+      "location_name": "Location 99",
+      "review_rate": 4.9,
+      "count_reviews": 298,
+      "distance_km": 6.0,
+      "distance_minutes": 104
+    },
+    {
+      "image": "https://example.com/medical-center100.jpg",
+      "title": "Medical Center 100",
+      "location_name": "Location 100",
+      "review_rate": 4.0,
+      "count_reviews": 300,
+      "distance_km": 6.0,
+      "distance_minutes": 105
+    }
+  ],
+  "doctors": [
+    {
+      "image": "assets/doctor.jpg",
+      "full_name": "Dr. Full Name 1",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 1, USA",
+      "review_rate": 4.1,
+      "reviews_count": 53
+    },
+    {
+      "image": "assets/doctor1.jpg",
+      "full_name": "Dr. Full Name 2",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 2, USA",
+      "review_rate": 4.2,
+      "reviews_count": 56
+    },
+    {
+      "image": "assets/doctor2.jpg",
+      "full_name": "Dr. Full Name 3",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 3, USA",
+      "review_rate": 4.3,
+      "reviews_count": 59
+    },
+    {
+      "image": "assets/doctor3.jpg",
+      "full_name": "Dr. Full Name 4",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 4, USA",
+      "review_rate": 4.4,
+      "reviews_count": 62
+    },
+    {
+      "image": "assets/doctor4.jpg",
+      "full_name": "Dr. Full Name 5",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 5, USA",
+      "review_rate": 4.5,
+      "reviews_count": 65
+    },
+    {
+      "image": "assets/doctor5.jpg",
+      "full_name": "Dr. Full Name 6",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 6, USA",
+      "review_rate": 4.6,
+      "reviews_count": 68
+    },
+    {
+      "image": "assets/doctor6.jpg",
+      "full_name": "Dr. Full Name 7",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 7, USA",
+      "review_rate": 4.7,
+      "reviews_count": 71
+    },
+    {
+      "image": "https://example.com/doctor8.jpg",
+      "full_name": "Dr. Full Name 8",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 8, USA",
+      "review_rate": 4.8,
+      "reviews_count": 74
+    },
+    {
+      "image": "https://example.com/doctor9.jpg",
+      "full_name": "Dr. Full Name 9",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 9, USA",
+      "review_rate": 4.9,
+      "reviews_count": 77
+    },
+    {
+      "image": "https://example.com/doctor10.jpg",
+      "full_name": "Dr. Full Name 10",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 10, USA",
+      "review_rate": 4.0,
+      "reviews_count": 80
+    },
+    {
+      "image": "https://example.com/doctor11.jpg",
+      "full_name": "Dr. Full Name 11",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 11, USA",
+      "review_rate": 4.1,
+      "reviews_count": 83
+    },
+    {
+      "image": "https://example.com/doctor12.jpg",
+      "full_name": "Dr. Full Name 12",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 12, USA",
+      "review_rate": 4.2,
+      "reviews_count": 86
+    },
+    {
+      "image": "https://example.com/doctor13.jpg",
+      "full_name": "Dr. Full Name 13",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 13, USA",
+      "review_rate": 4.3,
+      "reviews_count": 89
+    },
+    {
+      "image": "https://example.com/doctor14.jpg",
+      "full_name": "Dr. Full Name 14",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 14, USA",
+      "review_rate": 4.4,
+      "reviews_count": 92
+    },
+    {
+      "image": "https://example.com/doctor15.jpg",
+      "full_name": "Dr. Full Name 15",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 15, USA",
+      "review_rate": 4.5,
+      "reviews_count": 95
+    },
+    {
+      "image": "https://example.com/doctor16.jpg",
+      "full_name": "Dr. Full Name 16",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 16, USA",
+      "review_rate": 4.6,
+      "reviews_count": 98
+    },
+    {
+      "image": "https://example.com/doctor17.jpg",
+      "full_name": "Dr. Full Name 17",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 17, USA",
+      "review_rate": 4.7,
+      "reviews_count": 101
+    },
+    {
+      "image": "https://example.com/doctor18.jpg",
+      "full_name": "Dr. Full Name 18",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 18, USA",
+      "review_rate": 4.8,
+      "reviews_count": 104
+    },
+    {
+      "image": "https://example.com/doctor19.jpg",
+      "full_name": "Dr. Full Name 19",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 19, USA",
+      "review_rate": 4.9,
+      "reviews_count": 107
+    },
+    {
+      "image": "https://example.com/doctor20.jpg",
+      "full_name": "Dr. Full Name 20",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 20, USA",
+      "review_rate": 4.0,
+      "reviews_count": 110
+    },
+    {
+      "image": "https://example.com/doctor21.jpg",
+      "full_name": "Dr. Full Name 21",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 21, USA",
+      "review_rate": 4.1,
+      "reviews_count": 113
+    },
+    {
+      "image": "https://example.com/doctor22.jpg",
+      "full_name": "Dr. Full Name 22",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 22, USA",
+      "review_rate": 4.2,
+      "reviews_count": 116
+    },
+    {
+      "image": "https://example.com/doctor23.jpg",
+      "full_name": "Dr. Full Name 23",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 23, USA",
+      "review_rate": 4.3,
+      "reviews_count": 119
+    },
+    {
+      "image": "https://example.com/doctor24.jpg",
+      "full_name": "Dr. Full Name 24",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 24, USA",
+      "review_rate": 4.4,
+      "reviews_count": 122
+    },
+    {
+      "image": "https://example.com/doctor25.jpg",
+      "full_name": "Dr. Full Name 25",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 25, USA",
+      "review_rate": 4.5,
+      "reviews_count": 125
+    },
+    {
+      "image": "https://example.com/doctor26.jpg",
+      "full_name": "Dr. Full Name 26",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 26, USA",
+      "review_rate": 4.6,
+      "reviews_count": 128
+    },
+    {
+      "image": "https://example.com/doctor27.jpg",
+      "full_name": "Dr. Full Name 27",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 27, USA",
+      "review_rate": 4.7,
+      "reviews_count": 131
+    },
+    {
+      "image": "https://example.com/doctor28.jpg",
+      "full_name": "Dr. Full Name 28",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 28, USA",
+      "review_rate": 4.8,
+      "reviews_count": 134
+    },
+    {
+      "image": "https://example.com/doctor29.jpg",
+      "full_name": "Dr. Full Name 29",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 29, USA",
+      "review_rate": 4.9,
+      "reviews_count": 137
+    },
+    {
+      "image": "https://example.com/doctor30.jpg",
+      "full_name": "Dr. Full Name 30",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 30, USA",
+      "review_rate": 4.0,
+      "reviews_count": 140
+    },
+    {
+      "image": "https://example.com/doctor31.jpg",
+      "full_name": "Dr. Full Name 31",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 31, USA",
+      "review_rate": 4.1,
+      "reviews_count": 143
+    },
+    {
+      "image": "https://example.com/doctor32.jpg",
+      "full_name": "Dr. Full Name 32",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 32, USA",
+      "review_rate": 4.2,
+      "reviews_count": 146
+    },
+    {
+      "image": "https://example.com/doctor33.jpg",
+      "full_name": "Dr. Full Name 33",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 33, USA",
+      "review_rate": 4.3,
+      "reviews_count": 149
+    },
+    {
+      "image": "https://example.com/doctor34.jpg",
+      "full_name": "Dr. Full Name 34",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 34, USA",
+      "review_rate": 4.4,
+      "reviews_count": 152
+    },
+    {
+      "image": "https://example.com/doctor35.jpg",
+      "full_name": "Dr. Full Name 35",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 35, USA",
+      "review_rate": 4.5,
+      "reviews_count": 155
+    },
+    {
+      "image": "https://example.com/doctor36.jpg",
+      "full_name": "Dr. Full Name 36",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 36, USA",
+      "review_rate": 4.6,
+      "reviews_count": 158
+    },
+    {
+      "image": "https://example.com/doctor37.jpg",
+      "full_name": "Dr. Full Name 37",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 37, USA",
+      "review_rate": 4.7,
+      "reviews_count": 161
+    },
+    {
+      "image": "https://example.com/doctor38.jpg",
+      "full_name": "Dr. Full Name 38",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 38, USA",
+      "review_rate": 4.8,
+      "reviews_count": 164
+    },
+    {
+      "image": "https://example.com/doctor39.jpg",
+      "full_name": "Dr. Full Name 39",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 39, USA",
+      "review_rate": 4.9,
+      "reviews_count": 167
+    },
+    {
+      "image": "https://example.com/doctor40.jpg",
+      "full_name": "Dr. Full Name 40",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 40, USA",
+      "review_rate": 4.0,
+      "reviews_count": 170
+    },
+    {
+      "image": "https://example.com/doctor41.jpg",
+      "full_name": "Dr. Full Name 41",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 41, USA",
+      "review_rate": 4.1,
+      "reviews_count": 173
+    },
+    {
+      "image": "https://example.com/doctor42.jpg",
+      "full_name": "Dr. Full Name 42",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 42, USA",
+      "review_rate": 4.2,
+      "reviews_count": 176
+    },
+    {
+      "image": "https://example.com/doctor43.jpg",
+      "full_name": "Dr. Full Name 43",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 43, USA",
+      "review_rate": 4.3,
+      "reviews_count": 179
+    },
+    {
+      "image": "https://example.com/doctor44.jpg",
+      "full_name": "Dr. Full Name 44",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 44, USA",
+      "review_rate": 4.4,
+      "reviews_count": 182
+    },
+    {
+      "image": "https://example.com/doctor45.jpg",
+      "full_name": "Dr. Full Name 45",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 45, USA",
+      "review_rate": 4.5,
+      "reviews_count": 185
+    },
+    {
+      "image": "https://example.com/doctor46.jpg",
+      "full_name": "Dr. Full Name 46",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 46, USA",
+      "review_rate": 4.6,
+      "reviews_count": 188
+    },
+    {
+      "image": "https://example.com/doctor47.jpg",
+      "full_name": "Dr. Full Name 47",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 47, USA",
+      "review_rate": 4.7,
+      "reviews_count": 191
+    },
+    {
+      "image": "https://example.com/doctor48.jpg",
+      "full_name": "Dr. Full Name 48",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 48, USA",
+      "review_rate": 4.8,
+      "reviews_count": 194
+    },
+    {
+      "image": "https://example.com/doctor49.jpg",
+      "full_name": "Dr. Full Name 49",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 49, USA",
+      "review_rate": 4.9,
+      "reviews_count": 197
+    },
+    {
+      "image": "https://example.com/doctor50.jpg",
+      "full_name": "Dr. Full Name 50",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 50, USA",
+      "review_rate": 4.0,
+      "reviews_count": 200
+    },
+    {
+      "image": "https://example.com/doctor51.jpg",
+      "full_name": "Dr. Full Name 51",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 51, USA",
+      "review_rate": 4.1,
+      "reviews_count": 203
+    },
+    {
+      "image": "https://example.com/doctor52.jpg",
+      "full_name": "Dr. Full Name 52",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 52, USA",
+      "review_rate": 4.2,
+      "reviews_count": 206
+    },
+    {
+      "image": "https://example.com/doctor53.jpg",
+      "full_name": "Dr. Full Name 53",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 53, USA",
+      "review_rate": 4.3,
+      "reviews_count": 209
+    },
+    {
+      "image": "https://example.com/doctor54.jpg",
+      "full_name": "Dr. Full Name 54",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 54, USA",
+      "review_rate": 4.4,
+      "reviews_count": 212
+    },
+    {
+      "image": "https://example.com/doctor55.jpg",
+      "full_name": "Dr. Full Name 55",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 55, USA",
+      "review_rate": 4.5,
+      "reviews_count": 215
+    },
+    {
+      "image": "https://example.com/doctor56.jpg",
+      "full_name": "Dr. Full Name 56",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 56, USA",
+      "review_rate": 4.6,
+      "reviews_count": 218
+    },
+    {
+      "image": "https://example.com/doctor57.jpg",
+      "full_name": "Dr. Full Name 57",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 57, USA",
+      "review_rate": 4.7,
+      "reviews_count": 221
+    },
+    {
+      "image": "https://example.com/doctor58.jpg",
+      "full_name": "Dr. Full Name 58",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 58, USA",
+      "review_rate": 4.8,
+      "reviews_count": 224
+    },
+    {
+      "image": "https://example.com/doctor59.jpg",
+      "full_name": "Dr. Full Name 59",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 59, USA",
+      "review_rate": 4.9,
+      "reviews_count": 227
+    },
+    {
+      "image": "https://example.com/doctor60.jpg",
+      "full_name": "Dr. Full Name 60",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 60, USA",
+      "review_rate": 4.0,
+      "reviews_count": 230
+    },
+    {
+      "image": "https://example.com/doctor61.jpg",
+      "full_name": "Dr. Full Name 61",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 61, USA",
+      "review_rate": 4.1,
+      "reviews_count": 233
+    },
+    {
+      "image": "https://example.com/doctor62.jpg",
+      "full_name": "Dr. Full Name 62",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 62, USA",
+      "review_rate": 4.2,
+      "reviews_count": 236
+    },
+    {
+      "image": "https://example.com/doctor63.jpg",
+      "full_name": "Dr. Full Name 63",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 63, USA",
+      "review_rate": 4.3,
+      "reviews_count": 239
+    },
+    {
+      "image": "https://example.com/doctor64.jpg",
+      "full_name": "Dr. Full Name 64",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 64, USA",
+      "review_rate": 4.4,
+      "reviews_count": 242
+    },
+    {
+      "image": "https://example.com/doctor65.jpg",
+      "full_name": "Dr. Full Name 65",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 65, USA",
+      "review_rate": 4.5,
+      "reviews_count": 245
+    },
+    {
+      "image": "https://example.com/doctor66.jpg",
+      "full_name": "Dr. Full Name 66",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 66, USA",
+      "review_rate": 4.6,
+      "reviews_count": 248
+    },
+    {
+      "image": "https://example.com/doctor67.jpg",
+      "full_name": "Dr. Full Name 67",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 67, USA",
+      "review_rate": 4.7,
+      "reviews_count": 251
+    },
+    {
+      "image": "https://example.com/doctor68.jpg",
+      "full_name": "Dr. Full Name 68",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 68, USA",
+      "review_rate": 4.8,
+      "reviews_count": 254
+    },
+    {
+      "image": "https://example.com/doctor69.jpg",
+      "full_name": "Dr. Full Name 69",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 69, USA",
+      "review_rate": 4.9,
+      "reviews_count": 257
+    },
+    {
+      "image": "https://example.com/doctor70.jpg",
+      "full_name": "Dr. Full Name 70",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 70, USA",
+      "review_rate": 4.0,
+      "reviews_count": 260
+    },
+    {
+      "image": "https://example.com/doctor71.jpg",
+      "full_name": "Dr. Full Name 71",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 71, USA",
+      "review_rate": 4.1,
+      "reviews_count": 263
+    },
+    {
+      "image": "https://example.com/doctor72.jpg",
+      "full_name": "Dr. Full Name 72",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 72, USA",
+      "review_rate": 4.2,
+      "reviews_count": 266
+    },
+    {
+      "image": "https://example.com/doctor73.jpg",
+      "full_name": "Dr. Full Name 73",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 73, USA",
+      "review_rate": 4.3,
+      "reviews_count": 269
+    },
+    {
+      "image": "https://example.com/doctor74.jpg",
+      "full_name": "Dr. Full Name 74",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 74, USA",
+      "review_rate": 4.4,
+      "reviews_count": 272
+    },
+    {
+      "image": "https://example.com/doctor75.jpg",
+      "full_name": "Dr. Full Name 75",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 75, USA",
+      "review_rate": 4.5,
+      "reviews_count": 275
+    },
+    {
+      "image": "https://example.com/doctor76.jpg",
+      "full_name": "Dr. Full Name 76",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 76, USA",
+      "review_rate": 4.6,
+      "reviews_count": 278
+    },
+    {
+      "image": "https://example.com/doctor77.jpg",
+      "full_name": "Dr. Full Name 77",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 77, USA",
+      "review_rate": 4.7,
+      "reviews_count": 281
+    },
+    {
+      "image": "https://example.com/doctor78.jpg",
+      "full_name": "Dr. Full Name 78",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 78, USA",
+      "review_rate": 4.8,
+      "reviews_count": 284
+    },
+    {
+      "image": "https://example.com/doctor79.jpg",
+      "full_name": "Dr. Full Name 79",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 79, USA",
+      "review_rate": 4.9,
+      "reviews_count": 287
+    },
+    {
+      "image": "https://example.com/doctor80.jpg",
+      "full_name": "Dr. Full Name 80",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 80, USA",
+      "review_rate": 4.0,
+      "reviews_count": 290
+    },
+    {
+      "image": "https://example.com/doctor81.jpg",
+      "full_name": "Dr. Full Name 81",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 81, USA",
+      "review_rate": 4.1,
+      "reviews_count": 293
+    },
+    {
+      "image": "https://example.com/doctor82.jpg",
+      "full_name": "Dr. Full Name 82",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 82, USA",
+      "review_rate": 4.2,
+      "reviews_count": 296
+    },
+    {
+      "image": "https://example.com/doctor83.jpg",
+      "full_name": "Dr. Full Name 83",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 83, USA",
+      "review_rate": 4.3,
+      "reviews_count": 299
+    },
+    {
+      "image": "https://example.com/doctor84.jpg",
+      "full_name": "Dr. Full Name 84",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 84, USA",
+      "review_rate": 4.4,
+      "reviews_count": 302
+    },
+    {
+      "image": "https://example.com/doctor85.jpg",
+      "full_name": "Dr. Full Name 85",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 85, USA",
+      "review_rate": 4.5,
+      "reviews_count": 305
+    },
+    {
+      "image": "https://example.com/doctor86.jpg",
+      "full_name": "Dr. Full Name 86",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 86, USA",
+      "review_rate": 4.6,
+      "reviews_count": 308
+    },
+    {
+      "image": "https://example.com/doctor87.jpg",
+      "full_name": "Dr. Full Name 87",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 87, USA",
+      "review_rate": 4.7,
+      "reviews_count": 311
+    },
+    {
+      "image": "https://example.com/doctor88.jpg",
+      "full_name": "Dr. Full Name 88",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 88, USA",
+      "review_rate": 4.8,
+      "reviews_count": 314
+    },
+    {
+      "image": "https://example.com/doctor89.jpg",
+      "full_name": "Dr. Full Name 89",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 89, USA",
+      "review_rate": 4.9,
+      "reviews_count": 317
+    },
+    {
+      "image": "https://example.com/doctor90.jpg",
+      "full_name": "Dr. Full Name 90",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 90, USA",
+      "review_rate": 4.0,
+      "reviews_count": 320
+    },
+    {
+      "image": "https://example.com/doctor91.jpg",
+      "full_name": "Dr. Full Name 91",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 91, USA",
+      "review_rate": 4.1,
+      "reviews_count": 323
+    },
+    {
+      "image": "https://example.com/doctor92.jpg",
+      "full_name": "Dr. Full Name 92",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 92, USA",
+      "review_rate": 4.2,
+      "reviews_count": 326
+    },
+    {
+      "image": "https://example.com/doctor93.jpg",
+      "full_name": "Dr. Full Name 93",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 93, USA",
+      "review_rate": 4.3,
+      "reviews_count": 329
+    },
+    {
+      "image": "https://example.com/doctor94.jpg",
+      "full_name": "Dr. Full Name 94",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 94, USA",
+      "review_rate": 4.4,
+      "reviews_count": 332
+    },
+    {
+      "image": "https://example.com/doctor95.jpg",
+      "full_name": "Dr. Full Name 95",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 95, USA",
+      "review_rate": 4.5,
+      "reviews_count": 335
+    },
+    {
+      "image": "https://example.com/doctor96.jpg",
+      "full_name": "Dr. Full Name 96",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 96, USA",
+      "review_rate": 4.6,
+      "reviews_count": 338
+    },
+    {
+      "image": "https://example.com/doctor97.jpg",
+      "full_name": "Dr. Full Name 97",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 97, USA",
+      "review_rate": 4.7,
+      "reviews_count": 341
+    },
+    {
+      "image": "https://example.com/doctor98.jpg",
+      "full_name": "Dr. Full Name 98",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 98, USA",
+      "review_rate": 4.8,
+      "reviews_count": 344
+    },
+    {
+      "image": "https://example.com/doctor99.jpg",
+      "full_name": "Dr. Full Name 99",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 99, USA",
+      "review_rate": 4.9,
+      "reviews_count": 347
+    },
+    {
+      "image": "https://example.com/doctor100.jpg",
+      "full_name": "Dr. Full Name 100",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 100, USA",
+      "review_rate": 4.0,
+      "reviews_count": 350
+    }
+  ]
+}
